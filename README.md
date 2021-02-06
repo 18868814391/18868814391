@@ -4,3 +4,6 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=18868814391.readme)
 ![](http://antzuhl.cn:4000/get/@18868814391.readme)
+# linux卡片
+[![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)]
+# mac卡片
