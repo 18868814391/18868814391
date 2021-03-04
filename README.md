@@ -2,7 +2,7 @@
 
  ✨ welcome to syf's github ✨ 
 
-[![ChengPeiQuan's github stats](https://github-readme-stats.vercel.app/api?username=18868814391&theme=vue&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&layout=compact)](https://github.com/18868814391) ![Most Used languages](https://github.com/18868814391)
+[![ChengPeiQuan's github stats](https://github-readme-stats.vercel.app/api?username=18868814391&theme=vue&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&layout=compact)](https://github.com/18868814391) ![Most Used languages](https://github-stats.liuli.lol/api/top-langs/?username=18868814391&theme=vue&layout=compact)
 
 <!--
 ### Hi there 👋
